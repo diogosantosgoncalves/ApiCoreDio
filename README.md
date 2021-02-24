@@ -1,2 +1,2 @@
 # ApiCoreDio
-Apicação de Dot NEt Core com o Banco de Dados MongoDB
+Aplicação de Dot Net Core com o Banco de Dados MongoDB
